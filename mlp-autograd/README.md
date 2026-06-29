@@ -22,7 +22,7 @@ Training a neural network reduces to three repeated steps:
 
 ## Live demo
 
-[**Open visualizer →**](YOUR_VERCEL_URL)
+[**Open visualizer →**](https://mlp-autograd.vercel.app)
 
 ## Run locally
 
