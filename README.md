@@ -1,6 +1,6 @@
 # nn-fundamentals
 
-Working through how neural networks and LLMs work under the hood — from raw math to running code.
+Working through how neural networks and LLMs work under the hood.
 
 ## Projects
 
